@@ -1,0 +1,10 @@
+{
+  "name": "web3-ethereum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tiago Hermano <tiagofhermano@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
